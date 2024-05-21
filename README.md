@@ -17,7 +17,6 @@
       <li style="display: flex; align-items: center;">
         이메일 : 
         <a href="mailto:jujin1996@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit; margin-left: 8px;">
-          <span>jujin1996@gmail.com</span>
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-left: 8px;">
         </a>
       </li>
