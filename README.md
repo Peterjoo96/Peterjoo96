@@ -11,9 +11,17 @@
 <hr>
   <p>
     <br>
-    포트폴리오 : <a href="#">something</a> <br>
-    블로그 : <a href="#">something</a> <br>
-    이메일 : <a href="jujin1996@gmail.com">jujin1996@gmail.com</a> <br>
+    <ul>포트폴리오 : <a href="#">something</a> </ul><br>
+    <ul>블로그 : <a href="#">something</a></ul> <br>
+    <ul style="list-style: none; padding: 0;">
+      <li style="display: flex; align-items: center;">
+        이메일 : 
+        <a href="mailto:jujin1996@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit; margin-left: 8px;">
+          <span>jujin1996@gmail.com</span>
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-left: 8px;">
+        </a>
+      </li>
+    </ul> <br>
   </p>
 </div>
 <hr>
