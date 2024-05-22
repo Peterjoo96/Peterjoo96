@@ -12,14 +12,10 @@
   <p>
     <br>
     <ul>포트폴리오 : <a href="#">something</a> </ul><br>
-    <ul>블로그 : <a href="#">something</a></ul> <br>
+    <ul>블로그 : <a href="https://peterjoo96.github.io/myblog/">https://peterjoo96.github.io/myblog/</a></ul> <br>
     <ul style="list-style: none; padding: 0;">
-      <li style="display: flex; align-items: center;">
         이메일 : 
-        <a href="mailto:jujin1996@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit; margin-left: 8px;">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-left: 8px;">
-        </a>
-      </li>
+        <a href="mailto:jujin1996@gmail.com">jujin1996@gmail.com</a>
     </ul> <br>
   </p>
 </div>
